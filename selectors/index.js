@@ -1,0 +1,1 @@
+export const getDecks = state => state.deck.decks;
